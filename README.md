@@ -24,21 +24,36 @@ Give IP Address AND ( / OR Subnet )
 Get IP start, end, broadcast, network, etc.
 
 IP
+
 11000000.10101000.00000000.00000001
+
 Netmask
+
 11111111.11111111.11111111.00000000
+
 Broadcast
+
 11000000.10101000.00000000.11111111
+
 First
+
 11000000.10101000.00000000.00000001
+
 Last
+
 11000000.10101000.00000000.11111110
 
+
 192.168.0.1 /24
+
 broadcast 192.168.0.255
+
 network 192.168.0.1
+
 first usable address 192.168.0.1
+
 last usable address 192.168.0.254
+
 
 
 
